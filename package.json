@@ -1,0 +1,14 @@
+{
+  "name": "phgms_sentinel",
+  "version": "1.0.0",
+  "description": "A monitor service for PHGMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phgms"
+  ],
+  "author": "Philip Huysmans",
+  "license": "ISC"
+}
